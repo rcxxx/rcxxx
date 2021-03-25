@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rcxxx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi I'm rcxxx 👋
 
 <!--
 **rcxxx/rcxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭  I'm currently working on technologies related to robots
+- 🤔  I am very interested in CV & ML & DL
+- 🎖️  Last Captain of GCU Robot Team
+- 📫  How to reach me: chuangxinr@gmail.com
+  -  📱  my wechat account: r123456cx000
+- 🌁  Welcome to my [blog](sinnammanyo.cn) and my [Wiki](sinnammanyo.cn/docs)
+
