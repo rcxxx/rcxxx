@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭  I'm currently working on technologies related to robots
-- 🤔  I am very interested in CV & ML & DL
-- 🎖️  Last Captain of GCU Robot Team
-- 📫  How to reach me: chuangxinr@gmail.com
-  -  📱  my wechat account: r123456cx000
-- 🌁  Welcome to my [blog](sinnammanyo.cn) and my [Wiki](sinnammanyo.cn/docs)
+- 🔭 &nbsp; I'm currently working on technologies related to robots
+- 🤔 &nbsp; I am very interested in CV & ML & DL
+- 🎖️ &nbsp; Last Captain of GCU Robot Team
+- 📫 &nbsp; How to reach me: chuangxinr@gmail.com
+  -  📱 &nbsp; my wechat account: r123456cx000
+- 🌁 &nbsp; Welcome to my [blog](sinnammanyo.cn) and my [Wiki](sinnammanyo.cn/docs)
 
