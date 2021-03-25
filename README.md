@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 &nbsp; I'm currently working on technologies related to robots
-- 🤔 &nbsp; I am very interested in CV & ML & DL
+- 🔭 &nbsp; currently working on technologies related to robots
+- 🤔 &nbsp; very interested in CV & ML & DL
 - 🎖️ &nbsp; Last Captain of GCU Robot Team
 - 📫 &nbsp; How to reach me: chuangxinr@gmail.com
   -  📱 &nbsp; my wechat account: r123456cx000
