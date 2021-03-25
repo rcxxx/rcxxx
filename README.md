@@ -2,6 +2,10 @@
 
 ### Hi I'm rcxxx 👋
 
+A programmer who never wears a plaid shirt
+
+The dream is to be a robot engineer
+
 ---
 
 <!--
@@ -21,7 +25,11 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp; currently working on technologies related to robots
 - 🤔 &nbsp; very interested in CV & ML & DL
+- 😪 &nbsp; The best thing to do is to doze off
 - 🎖️ &nbsp; Last Captain of GCU Robot Team
+
+---
+
 - 📫 &nbsp; How to reach me: chuangxinr@gmail.com
   -  📱 &nbsp; my wechat account: r123456cx000
 - 🌁 &nbsp; Welcome to my [blog](sinnammanyo.cn) and my [Wiki](sinnammanyo.cn/docs)
