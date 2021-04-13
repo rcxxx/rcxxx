@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 - 📫 &nbsp; How to reach me: chuangxinr@gmail.com
   -  📱 &nbsp; my wechat account: r123456cx000
-- 🌁 &nbsp; Welcome to my [blog](sinnammanyo.cn) and my [Wiki](sinnammanyo.cn/docs)
+- 🌁 &nbsp; Welcome to my [blog](https://sinnammanyo.cn) and my [Wiki](https://sinnammanyo.cn/docs/)
 
