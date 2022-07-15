@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; currently working on technologies related to robots
 - 🤔 &nbsp; very interested in CV & ML & DL
 - 😪 &nbsp; The best thing to do is to doze off
-- 🎖️ &nbsp; Last Captain of GCU Robot Team
+- 🎖️ &nbsp; Former Captain of GCU Robot Team
 
 ---
 
