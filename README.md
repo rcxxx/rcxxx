@@ -32,9 +32,7 @@ The dream is to be a robot engineer
 
 ---
 </br></br>
-<a align="right" herf="https://github.com/rcxxx/sinnammanyo.cn">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" style="pointer-events: none"/>
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" />
 
 - 📫 &nbsp; How to reach me: chuangxinr@gmail.com
   -  📱 &nbsp; my wechat account: r123456cx000
