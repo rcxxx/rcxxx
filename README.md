@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 [![site repo](https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true)](https://github.com/rcxxx/sinnammanyo.cn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx)](https://github.com/rcxxx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx&layout=compact&hide=javascript,html)](https://github.com/rcxxx)
 
