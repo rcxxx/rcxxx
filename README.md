@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   -  📱 &nbsp; my wechat account: r123456cx000
 - 🌁 &nbsp; Welcome to my [personal-website](https://sinnammanyo.cn)
 
-<a herf="https://github.com/rcxxx/sinnammanyo.cn"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" /></a>
+<a herf="https://github.com/rcxxx/sinnammanyo.cn"><img style="float:right" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" /></a>
 
 
 
