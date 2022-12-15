@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   -  📱 &nbsp; my wechat account: r123456cx000
 - 🌁 &nbsp; Welcome to my [personal-website](https://sinnammanyo.cn)
 
-[![site repo](https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn)](https://github.com/rcxxx/sinnammanyo.cn)
+[![site repo](https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true)](https://github.com/rcxxx/sinnammanyo.cn)
