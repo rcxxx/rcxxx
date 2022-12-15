@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - 🌁 &nbsp; Welcome to my [personal-website](https://sinnammanyo.cn)
 
 [![site repo](https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true)](https://github.com/rcxxx/sinnammanyo.cn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx)](https://github.com/rcxxx)
+
