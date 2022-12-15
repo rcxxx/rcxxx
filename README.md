@@ -1,13 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rcxxx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-### Hi I'm rcxxx 👋
-
-A programmer who never wears a plaid shirt
-
-The dream is to be a robot engineer
-
----
-
 <!--
 **rcxxx/rcxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx&layout=compact&hide=javascript,html,css" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rcxxx&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi I'm rcxxx 👋
+
+A programmer who never wears a plaid shirt
+
+The dream is to be a robot engineer
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx&layout=compact&hide=javascript,html,css" />
 
 - 🔭 &nbsp; currently working on technologies related to robots
 - 🤔 &nbsp; very interested in CV & ML & DL
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   -  📱 &nbsp; my wechat account: r123456cx000
 - 🌁 &nbsp; Welcome to my [personal-website](https://sinnammanyo.cn)
 
-<a herf="https://github.com/rcxxx/sinnammanyo.cn">
-  <img style="float:right" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" />
+<a align="right" herf="https://github.com/rcxxx/sinnammanyo.cn">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" />
 </a>
 
 
