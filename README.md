@@ -34,3 +34,4 @@ Here are some ideas to get you started:
   -  📱 &nbsp; my wechat account: r123456cx000
 - 🌁 &nbsp; Welcome to my [blog](https://sinnammanyo.cn) and my [Wiki](https://sinnammanyo.cn/personal-site/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn)](https://github.com/anuraghazra/github-readme-stats)
