@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx&layout=compact&hide=javascript,html,css)](https://github.com/rcxxx)
+
 - 🔭 &nbsp; currently working on technologies related to robots
 - 🤔 &nbsp; very interested in CV & ML & DL
 - 😪 &nbsp; The best thing to do is to doze off
@@ -36,5 +38,5 @@ Here are some ideas to get you started:
 
 [![site repo](https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true)](https://github.com/rcxxx/sinnammanyo.cn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcxxx&layout=compact&hide=javascript,html)](https://github.com/rcxxx)
+
 
