@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 - 🎖️ &nbsp; Former Captain of GCU Robot Team
 
 ---
-
+</br></br>
 - 📫 &nbsp; How to reach me: chuangxinr@gmail.com
   -  📱 &nbsp; my wechat account: r123456cx000
 - 🌁 &nbsp; Welcome to my [personal-website](https://sinnammanyo.cn)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true"><a herf="https://github.com/rcxxx/sinnammanyo.cn" /><img>
+<a herf="https://github.com/rcxxx/sinnammanyo.cn"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rcxxx&repo=sinnammanyo.cn&show_owner=true" /></a>
 
 
 
